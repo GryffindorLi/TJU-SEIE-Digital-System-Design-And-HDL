@@ -1,5 +1,5 @@
 # TJU-SEIE-Digital-System-Design-And-HDL
-## Code for Digital-System-Design-And-HDL(ALL CODE IN VHDL!!!)
+## Code for Digital-System-Design-And-HDL taught by Associate Professor Shufang Zhang in 2019 Fall(ALL CODE IN VHDL!!!)
 There are 3 projects in this course. 
 
 + The first project is that design a voter using 4 different grammars, if, case, choose and condition.
